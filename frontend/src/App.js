@@ -42,7 +42,7 @@ export default class App extends Component {
     return (
       <div className="App container-fluid">
         <nav className="navbar navbar-expand-lg navbar-dard bg-dark">
-          <Link className="navbar-brand navtextcolor" to='/'>P@RE</Link>
+          <Link className="navbar-brand navtextcolor" to='/'>Pearl</Link>
           <button className="navbar-dark navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-dark navbar-toggler-icon"></span>
           </button>
